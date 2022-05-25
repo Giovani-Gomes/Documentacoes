@@ -44,6 +44,6 @@ a, a:visited {
 }
 
 a:hover {
-    color: darkgoldenrod;
+    color: rgb(37, 11, 184);
     text-decoration: none;
 }
